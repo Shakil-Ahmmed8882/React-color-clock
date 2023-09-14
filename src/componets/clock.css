@@ -1,0 +1,10 @@
+.container{
+      border: 2px solid rgb(255, 166, 0);
+      padding: 20px;
+      border-radius: 10px;
+      display:grid;
+      /* flex-direction: column; */
+      justify-content: center;
+      width: 400px;
+      height: 200px;
+}
